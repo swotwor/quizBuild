@@ -1,2 +1,44 @@
-button{background-color:pink;border:none;border-radius:15px;cursor:pointer;font-size:20px;height:40px;line-height:40px;margin:0 auto;text-align:center;width:200px}button:hover{background-color:rgba(255,192,203,.7)}.wrapper{display:flex;flex-direction:column;justify-content:center;width:500px}.mainComponent_wrapper{background-color:#fff;border-radius:30px;height:500px;padding:20px;width:500px}body{background-color:beige;font-family:Manrope,sans-serif}.app{align-items:center;display:flex;justify-content:center}
+button {
+    background-color: pink;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-size: 20px;
+    height: 40px;
+    line-height: 40px;
+    margin: 0 auto;
+    text-align: center;
+    width: 200px
+}
+
+button:hover {
+    background-color: rgba(255, 192, 203, .7)
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 500px
+}
+
+.mainComponent_wrapper {
+    background-color: #fff;
+    border-radius: 30px;
+    height: 500px;
+    padding: 20px;
+    width: 500px
+}
+
+body {
+    background-color: beige;
+    font-family: Manrope, sans-serif
+}
+
+.app {
+    align-items: center;
+    display: flex;
+    justify-content: center
+}
+
 /*# sourceMappingURL=main.7e81b17f.css.map*/
